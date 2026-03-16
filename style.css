@@ -12,6 +12,8 @@ body{
     width: 660px;
     margin: 0 auto;
     background-color: rgb(255, 163, 255);
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 .flex{
@@ -84,6 +86,9 @@ body{
 .tamanho_15{
     width: 300px;
 }
-
-
-
+.esticar15{
+    padding-bottom: 100px;
+}
+.esticar6{
+    padding-bottom: 310px;
+}
